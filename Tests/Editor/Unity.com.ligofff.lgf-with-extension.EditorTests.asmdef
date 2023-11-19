@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.ligofff.lgf-with-extension.Editor.Tests",
+  "references": [
+    "Unity.com.ligofff.lgf-with-extension"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

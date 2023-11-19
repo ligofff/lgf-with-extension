@@ -1,0 +1,27 @@
+{
+  "name": "com.ligofff.lgf-with-extension",
+  "displayName": "Ligofff - LGF .With Extension",
+  "version": "0.1.0",
+  "unity": "2022.2",
+  "description": "Just a simple package that provides .With extension for comfort objects manipulations",
+  "keywords": [
+    "unity",
+	"unity3d",
+	"upm",
+    "ligofff",
+    "utility"
+  ],
+  "homepage": "https://github.com/ligofff/lgf-with-extension.git",
+  "bugs": {
+    "url": "https://github.com/ligofff/lgf-with-extension/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ligofff/lgf-with-extension.git"
+  },
+  "license": "MIT",
+  "author": "Ligofff (https://ligofff.com)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
